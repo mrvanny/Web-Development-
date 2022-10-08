@@ -1,0 +1,66 @@
+*{
+    background-color:black;
+}
+.hibro{
+    size-adjust:auto;
+    text-align: center;
+    color:coral;
+
+
+}
+h1{
+    color:greenyellow;
+    background-color: black;
+    height:50px;
+    font: size 900%;
+    text-align: center;
+    align-items: center;
+    font-weight: bolder;
+
+
+}
+.co{
+    background-color: orangered;
+}
+button{
+
+
+    background-color: greenyellow;
+
+    width:140px;
+    font-weight: bolder;
+    font-size: larger;
+
+    height:55px;
+    border-radius:10px;
+
+}
+button:hover{
+    background-color:whitesmoke;
+    width: 140px;
+    height:55px;
+    border-radius:10px;
+    transition:0.1s;
+    
+}
+   
+
+
+input{
+    width:570px;
+    margin-bottom:30px ;
+    height:90px;
+    border-color:darkred;
+    box-shadow: 20px;
+    border-width: 4px;
+    font-size:30px;
+    border-radius: 18px;
+    background-color:aliceblue;
+
+}
+
+
+table{
+    margin:auto;
+
+}
